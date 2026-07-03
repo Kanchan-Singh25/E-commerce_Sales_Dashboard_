@@ -2,7 +2,7 @@
 <img src="Screenshot 2026-06-08 131425.png">
 
 Analyzed E-commerce sales data using power Bi by creating an interactive dashboard.
-Used different types of visulization (bar chart, donut chart, slicers, card ).
+Used different types of visualization (bar chart, donut chart, slicers, card ).
 
 Key insights included :
 
