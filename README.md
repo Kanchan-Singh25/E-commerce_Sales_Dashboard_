@@ -5,10 +5,6 @@
 
 The Store wants to create an annual sales report for 2022. So that, the owner of the store can understand their customers and grow more sales in 2023 & 2024.
 
-<h2>Dataset used</h2>
-
-• Dataset
-
 <h2>Questions (KPIs)</h2>
 
 • Compare the sales and orders using single chart.
@@ -35,23 +31,17 @@ The Store wants to create an annual sales report for 2022. So that, the owner of
 
 • Made sure data is consistent and clean with respect to data type, data format and values used.
 
-• Created pivot tables according to the questions asked.
-
-• Merge all pivot tables into one dashboard and apply slicer to make dynamic.
-
 <h2>Project Insight</h2>
 
-• The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+1.	Clothing category are more likely to buy as compared to other categories .
+2.	The states of Uttar Pradesh, Rajasthan and West Bengal are the top 3 product buyers.
+3.	Top 3 sub-category printers, tables, bookcases.
+4.	Top payment mode- COD , UPI , Credit Card
 
-• The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-
-• The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-
-• More than 90% of the products delivered
 
 <h2>Final Conclusion:</h2>
 
-To improve the sales of Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+To improve the sales of Store, a strategic marketing plan focused on clothing category in Uttar Pradesh, Rajasthan, and West Bengal should be implemented.The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
 
 
 
