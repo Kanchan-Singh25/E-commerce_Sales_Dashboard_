@@ -1,4 +1,4 @@
-# Sales_Dashboard-Using-Power-Bi
+# E-commerce_Sales_Dashboard using power bi
 <img src="Screenshot 2026-06-08 131425.png">
 
 Analyzed E-commerce sales data using power Bi by creating an interactive dashboard.
