@@ -5,26 +5,6 @@
 
 The Store wants to create an annual sales report for 2022. So that, the owner of the store can understand their customers and grow more sales in 2023 & 2024.
 
-<h2>Questions (KPIs)</h2>
-
-• Compare the sales and orders using single chart.
-
-• Which month got the highest sales and orders?
-
-• What are different order status in 2022?
-
-• List top 10 states contributing to the sales?
-
-• Relation between age and gender based on number of orders.
-
-• Which Channel is contributing maximum to the sales?
-
-• Highest selling category?
-
-• Percentage of Total Orders delivered
-
-• Dashboard Interaction View Dashboard
-
 <h2>Process</h2>
 
 • Verify data for any missing values and anomalies, and sort out the same.
